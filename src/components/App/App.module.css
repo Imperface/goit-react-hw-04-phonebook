@@ -1,0 +1,13 @@
+.app {
+  font-size: 20px;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  text-align: center;
+}
+p {
+  padding: 10px 0;
+}
